@@ -1,0 +1,14 @@
+D:\matkul\SEM_6\PBKK\program\HelloWorldXamarin\HelloWorldXamarin\HelloWorldXamarin\bin\Debug\netstandard2.0\HelloWorldXamarin.deps.json
+D:\matkul\SEM_6\PBKK\program\HelloWorldXamarin\HelloWorldXamarin\HelloWorldXamarin\bin\Debug\netstandard2.0\HelloWorldXamarin.dll
+D:\matkul\SEM_6\PBKK\program\HelloWorldXamarin\HelloWorldXamarin\HelloWorldXamarin\bin\Debug\netstandard2.0\ref\HelloWorldXamarin.dll
+D:\matkul\SEM_6\PBKK\program\HelloWorldXamarin\HelloWorldXamarin\HelloWorldXamarin\bin\Debug\netstandard2.0\HelloWorldXamarin.pdb
+D:\matkul\SEM_6\PBKK\program\HelloWorldXamarin\HelloWorldXamarin\HelloWorldXamarin\obj\Debug\netstandard2.0\HelloWorldXamarin.csprojAssemblyReference.cache
+D:\matkul\SEM_6\PBKK\program\HelloWorldXamarin\HelloWorldXamarin\HelloWorldXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\matkul\SEM_6\PBKK\program\HelloWorldXamarin\HelloWorldXamarin\HelloWorldXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\matkul\SEM_6\PBKK\program\HelloWorldXamarin\HelloWorldXamarin\HelloWorldXamarin\obj\Debug\netstandard2.0\HelloWorldXamarin.AssemblyInfoInputs.cache
+D:\matkul\SEM_6\PBKK\program\HelloWorldXamarin\HelloWorldXamarin\HelloWorldXamarin\obj\Debug\netstandard2.0\HelloWorldXamarin.AssemblyInfo.cs
+D:\matkul\SEM_6\PBKK\program\HelloWorldXamarin\HelloWorldXamarin\HelloWorldXamarin\obj\Debug\netstandard2.0\HelloWorldXamarin.csproj.CoreCompileInputs.cache
+D:\matkul\SEM_6\PBKK\program\HelloWorldXamarin\HelloWorldXamarin\HelloWorldXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+D:\matkul\SEM_6\PBKK\program\HelloWorldXamarin\HelloWorldXamarin\HelloWorldXamarin\obj\Debug\netstandard2.0\HelloWorldXamarin.dll
+D:\matkul\SEM_6\PBKK\program\HelloWorldXamarin\HelloWorldXamarin\HelloWorldXamarin\obj\Debug\netstandard2.0\ref\HelloWorldXamarin.dll
+D:\matkul\SEM_6\PBKK\program\HelloWorldXamarin\HelloWorldXamarin\HelloWorldXamarin\obj\Debug\netstandard2.0\HelloWorldXamarin.pdb
